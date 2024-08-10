@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-
 
 
 This Tzicha Org Account is the account of all accounts
